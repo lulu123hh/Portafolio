@@ -46,7 +46,7 @@ Formulario simple con campos de nombre, correo, mensaje y botones.
 
 
 
-## 📸 Capturas de Pantalla
+ Capturas de Pantalla
 
 ![Captura del Home]()
 
