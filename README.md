@@ -48,5 +48,6 @@ Formulario simple con campos de nombre, correo, mensaje y botones.
 
  Capturas de Pantalla
 
+![Captura del Home](https://github.com/lulu123hh/Portafolio/blob/56af90b01f72d7b287609ba0da2650f7c9bc5ea3/captura1.png)
 ![Captura del Home]()
 
